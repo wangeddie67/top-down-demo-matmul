@@ -43,6 +43,6 @@
 __pycache__
 
 # Manim
-markdown/figures/manim/media
-markdown/figures/manim/presentation
+figures/manim/media
+figures/manim/presentation
 
