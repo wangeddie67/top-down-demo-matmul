@@ -30,3 +30,19 @@
 *.exe
 *.out
 *.app
+
+# Debug
+*.csv
+*.diss
+
+# Drawio
+*.drawio.bkp
+*.drawio.dtmp
+
+# Python
+__pycache__
+
+# Manim
+markdown/figures/manim/media
+markdown/figures/manim/presentation
+
